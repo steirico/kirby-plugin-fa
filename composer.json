@@ -1,0 +1,16 @@
+{
+    "name": "steirico/kirby-plugin-fa",
+    "description": "Kirby Plugin which adds FontAwesome icons to the Panel",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rico Steiner",
+            "email": "rico@vweb.ch"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1",
+        "fortawesome/font-awesome": "^5.8"
+    }
+}
